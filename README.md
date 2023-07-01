@@ -4,7 +4,7 @@
 ```
 rm -rf FILE
 git clone --depth=1 https://github.com/cyber-xbot/Opening_Soon
-cd FILE
+cd Opening_Soon
 python FILE.py
 ```
 
